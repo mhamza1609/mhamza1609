@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Hamza 👋</h1>
 <h3 align="center">An AI/ML Engineer from Pakistan</h3>
 
-- 📝 I write articles on [https://medium.com/@junaid1210](https://medium.com/@mhamza1609)
+- 📝 I write articles on (https://medium.com/@mhamza1609)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/junaid1210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid1210/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/junaid111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/junaid111" height="30" width="40" /></a>
-<a href="https://medium.com/@junaid1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@junaid1210" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mhamza1609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhamza1609/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/mohammadhamza1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohammadhamza1609" height="30" width="40" /></a>
+<a href="https://medium.com/@mhamza1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhamza1609" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
